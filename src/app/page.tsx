@@ -15,7 +15,7 @@ const page = () =>{
 Muhammad Tanveer
         </div>
         <div className="text-slate-700 dark:text-slate-500">
-          Staff Genrative,AI
+          Staff Genrative AI
         </div>
       </figcaption>
     </div>
